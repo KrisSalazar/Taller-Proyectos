@@ -1,2 +1,2 @@
-# Taller-Proyectos
+# Taller de Proyectos
 bla bla bla
